@@ -1,0 +1,22 @@
+
+#h1{
+  font-style:helvetica;
+  font-size: 20px;
+  }
+
+#h2{
+  font-style: helvetica;
+  font-size: 16px;
+}
+
+img{
+  height:80px;
+  width:80px
+  margin: 5px;
+  padding:5px;
+
+}
+
+li{
+  color: blue;
+}
