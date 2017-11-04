@@ -1,9 +1,93 @@
-*{
-float:left;
-margin-left:0px;
-padding-left:0px;
+#topcol{
+  float:right;
+  padding-top: 0px;
+  background-blend-mode: lighten;
+  background-color: #F6F6F6;
 
-  }
+}
+
+#profileman{
+  height: 10px;
+  width:10px;
+  padding-bottom:1px;
+  padding-right: 2px;
+
+}
+
+#topcol li{
+  padding-right:8px;
+}
+
+ul[class=navbar-fixed-topright]{
+ padding-left: 570px;
+}
+
+ul[class=navbar-fixed-left]{
+  padding-left: none;
+  margin-top: 30px;
+  float: left;
+  margin-left: -40px;
+  margin-right: 0px;
+
+}
+
+ul[class=navbar-fixed-right]{
+  padding-left: 50px;
+  padding-top: 35px;
+  margin-left: 480px;
+
+
+}
+
+input[type=text] {
+    width: 200px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    float:right
+}
+
+#toppanel{
+  margin-left:20px;
+  background-color: #F6F6F6F6;
+}
+
+#toppannel{
+  float: right;
+  margin:20px;
+  background-color: #F6F6F6F6;
+}
+
+.panelhead{
+  float:left;
+}
+
+img.alpinechough{
+  padding: 10px;
+  float:left;
+  height:180px;
+  width:140px;
+}
+
+
+
+ul.panellist{
+  float:right;
+  position: right;
+  color: blue;
+  padding: 10px;
+  padding-right:20px;
+}
+
+
+
+
+#leftcol{
+  float: left;
+  margin-left:0px;
+  padding-left:0px;
+  background-color: #F6F6F6;
+  margin-top: none;
+}
 
 .world{
   margin-top: 20px;
@@ -30,28 +114,26 @@ padding-left:0px;
 }
 
 li.h3{
-
-  float: left;
   font-size: 12px;
-
-  padding-left: 0px;
-  margin-left:0px;
-  margin-right:10px;
-
 }
 
 li{
   float: left;
   padding-left: none;
   font-size: 12px;
-  position:relative;
-  margin-bottom: 10px;
-  padding-right:50px;
+  padding-right:40px;
 }
 
+.mainmenu{
+  color:black;
+}
+
+
+
 img.settingglyph{
+  margin-top: 23px;
+  margin-right: 20px;
+  float: right;
   height: 10px;
   width: 10px;
-  float:left;
-  margin-top:20px;
 }
